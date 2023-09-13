@@ -1,22 +1,44 @@
 h1 {
-    cor de fundo : violet;
-    alinhamento de texto : centro;
-    cor de fundo : green;
+    text-align:center;
+    background-color: aqua;
 }
-h3 {
-    cor de fundo : aqua;
+h2{
+    text-align: center;
+}
+h3{
+    font-style: oblique;
+    background-color: blue;
+    text-align: center;
 }
 
 p {
-    alinhamento de texto : centro;
-    tamanho da fonte : small;
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
 }
 
-forte {
-    tamanho da fonte :  35 px
-    tamanho da fonte : average;
+body {
+    background-color: blueviolet;
+}
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
 }
 
-corpo {
-    cor de fundo : blue;
+.unicornio {
+    background-color: forestgreen
+
 }
+.brilho {
+   color: aqua;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
